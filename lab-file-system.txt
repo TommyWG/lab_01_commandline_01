@@ -213,7 +213,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
+cd
 
 
 ==========
@@ -233,8 +233,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
-
+mkdir -p
 
 ==========
 22. Change your directory so that you're in the inner most directory (baz)
@@ -260,7 +259,7 @@ What command did you use?
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
@@ -278,13 +277,13 @@ What command did you use?
 ==========
 28. What's a pathname?
 ----------
-
+gives a speacial location in afile system 
 
 
 ==========
 29. What's a directory?
 ----------
-
+A place where you can oraganize files 
 
 
 ==========
